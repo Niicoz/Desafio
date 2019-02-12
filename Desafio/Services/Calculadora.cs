@@ -4,7 +4,7 @@ using Desafio.Repositorio;
 
 namespace Desafio.Services
 {
-    public class Servicos
+    public class Calculadora
     {
         public double CalcularValorLiquido(Transacao transacao)
         {
